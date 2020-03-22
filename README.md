@@ -1,4 +1,5 @@
 # Projects
+<<<<<<< HEAD
 ## 1. Multiple Linear Regression Model: 
 • Predicted the selling price of a home using various Multiple Linear Regression models in R and did the appropriate Statistical analysis.  
 ## 2. Optimization of a Process using ANN & ELM: 
@@ -8,3 +9,11 @@
 • Analyzed the impact of Demonetization and GST on Kolkata Residential Real Estate Market by analyzing the vacancy in old and new upcoming projects.
 • Segmented Kolkatta into different localities based on income group by analyzing the cost/rent for Real Estate in that are.
 • Completed a case study on Malls in Kolkatta to figure out the reason behind their vacancy and meagre footfall.
+=======
+## 1. Prediting Selling Price of a House: 
+Predicted the selling price of a home using various Multiple Linear Regression models in R and did the appropriate Statistical analysis.  
+## 2. Optimization of a Metallurgical Process using AI techniques: 
+Implemented data-driven optimization techniques for Dynamic Operational Management of Sponge Iron Rotary Kilns. This include Extreme Learning Machine in R, ANN in MATLAB, Linear Programming and Multiple Linear regression in Excel.
+## 3. Analysis of Residential Market and Malls in Kolkata: 
+Analyzed the impact of Demonetization and GST on Kolkata Residential Real Estate Market and Malls by analyzing the vacancy in the new and upcoming project. 
+>>>>>>> 6e317de4200556c5164b7ef305387cf6f27036c9
