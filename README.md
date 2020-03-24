@@ -12,3 +12,12 @@
 ## - Python for Finance: 
 • Simple Rate of Return, Log rate of return, Risk and Return of Portfolio, Correlation, Diversifiable & Non-Diversifiable Risk, Beta of a Stock, CAPM, Sharpe Ratio, Efficient Frontier.<br>
 • Monte Carlo Simluation for Predicting Gross Profit, Stock Price; Black-Scholes-Merton theorem; Euler Discretization .
+## - Decision Tree: 
+• Dataset: Diabetes during Pregnancy dataset<br>
+• Definition, Types, Exploratory Data Analysis & Modelling
+## - K-Means Clustering: 
+• Dataset: Titanic dataset<br>
+• Definition, Exploratory Data Analysis & Modelling
+## - Time Series Analysis & Modelling: 
+• Dataset: Google trends data of keywords 'diet', 'gym' and 'finance' <br>
+• Definition, Exploratory Data Analysis, Trends, Seasonality, Autocorrelation & ARIMA Modelling
