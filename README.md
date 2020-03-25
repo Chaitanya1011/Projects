@@ -21,3 +21,7 @@
 ## - Time Series Analysis & Modelling: 
 • Dataset: Google trends data of keywords 'diet', 'gym' and 'finance' <br>
 • Definition, Exploratory Data Analysis, Trends, Seasonality, Autocorrelation & ARIMA Modelling
+## - Algorithm Trading Basics: 
+• Dataset: Historical Stock Price data for Apple, Microsoft, AT&T and Ford Motors using alpha vintage api. <br>
+• Refining/Compiling the data, Linear Modelling, Trading Strategy and its implementation 
+
