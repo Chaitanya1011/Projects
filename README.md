@@ -1,10 +1,10 @@
 # Projects
 
 ## - Algorithm Trading Basics: 
-• Dataset: Historical Stock Price data for Apple, Microsoft, AT&T and Ford Motors using alpha vintage api. <br>
-• Refining/Compiling the data, Linear Modelling, Trading Strategy and its implementation 
-• Calculated technical indicators (MACD, ATR) by scraping data from Yahoo Finance & Wiki using Python libraries
-• Backtested various strategies like Portfolio Rebalancing, Resistance Breakout among others
+• Dataset: Historical Stock Price data for Apple, Microsoft, AT&T and Ford Motors using alpha vintage api <br>
+• Refining/Compiling the data, Linear Modelling, Trading Strategy and its implementation <br>
+• Calculated technical indicators (MACD, ATR) by scraping data from Yahoo Finance & Wiki using Python libraries <br>
+• Backtested various strategies like Portfolio Rebalancing, Resistance Breakout among others <br>
 • Implemented Magic Formula and Piotroski F-Score (Value Investing) in Python 
 ## - Case study on Kolkata Residential Markets: 
 • Analyzed the impact of Demonetization and GST on Kolkata Residential Real Estate Market by analyzing the vacancy in old and new upcoming projects.<br>
